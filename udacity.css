@@ -1,0 +1,49 @@
+.navbar {
+    height:6em;
+    background-color:white;
+}
+.logo {
+    height:1.2em;
+}
+.brand {
+    font-size:1.2em;
+    font-weight:650;
+    letter-spacing:5px;
+    font-family: 'Nunito', sans-serif;
+}
+.space {
+    font-family: 'Open Sans', sans-serif;
+    font-size:18px;
+    margin-right:2em;
+    color:#525C65;
+}
+.start {
+    font-family: 'Open Sans', sans-serif;
+    font-size:12px;
+    padding:5 10px;
+    letter-spacing:2px;
+    box-shadow:0 0 8px 0 rgba(17,22,26,.16), 0 4px 8px 0 rgba(17,22,26,.08), 0 8px 16px 0 rgba(17,22,26,.08);
+    border:#02B3E4;
+    background-color:#02B3E4;
+    color:#FFFFFF;
+}
+.banner img{
+    width:100%;
+    position:absolute;
+}
+.content {
+    position:relative;
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    border-radius:10px;
+    background-color:#2390E6;
+    top:15px;
+    left:50px;
+    padding: 84px 42px;
+    height:33em;
+    width:33em;
+    z-index:2;
+}
+.margin {
+    margin-bottom:35px;
+}

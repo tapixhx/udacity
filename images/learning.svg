@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="30px" viewBox="0 0 22 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 11 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="selling-pts-turquoise" transform="translate(-20.000000, -15.000000)" stroke="#02CCBA" stroke-width="2">
+            <g id="Group-11-Copy" transform="translate(20.000000, 15.000000)">
+                <path d="M1,29 L13,29 L13,23 L17.0025781,23 C17.5547737,23 18,22.5530659 18,21.9972399 L18,17 L21,17 L21,9 C21,4.58092197 17.4204313,1 13.0041557,1 L8.99584429,1 C4.58478543,1 1,4.5843601 1,9 L1,29 Z" id="Combined-Shape"></path>
+                <path d="M8.55625958,13.4112169 L9,13.7082473 L9,14.9906311 C9,15.0022212 8.99778693,15 8.99980749,15 L12.0001925,15 C11.9998925,15 12,14.9998912 12,14.9906311 L12,13.7082473 L12.4437404,13.4112169 C13.4094514,12.7647904 14,11.6832546 14,10.5 C14,8.56700338 12.4329966,7 10.5,7 C8.56700338,7 7,8.56700338 7,10.5 C7,11.6832546 7.59054862,12.7647904 8.55625958,13.4112169 Z" id="Combined-Shape"></path>
+                <path d="M10,18 L11,18" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

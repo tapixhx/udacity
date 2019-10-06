@@ -96,3 +96,34 @@
     height:3em;
     width:10em
 }
+.programs {
+    font-size : 2.5em;
+    font-weight:lighter;
+    font-family: 'Open Sans', sans-serif;
+}
+.programsimg {
+    position:absolute;
+    height:10em;
+    width:14em;
+    border-radius:10px;
+}
+.subimg {
+    box-shadow: 10px 10px 25px 0 rgba(0,0,0,.1);
+    position:absolute;
+    background-color:white;
+    border-radius:50%;
+    left:202px;
+    top:10px;
+    height:4em;
+    width:4em;
+}
+.subimage {
+    display:block;
+    margin:auto;
+    padding:15px;
+}
+.border1 {
+    border-bottom:4px;
+    border-bottom-color:#FFA234;
+    border-bottom-style:solid;
+}

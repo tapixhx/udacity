@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="19px" viewBox="0 0 25 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>coding-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="selling-pts-magenta" transform="translate(-18.000000, -22.000000)" stroke="#FF5483" stroke-width="2">
+            <g id="coding-icon" transform="translate(18.000000, 22.000000)">
+                <path d="M2.04347826,1 L23,1 C23.5522847,1 24,1.44771525 24,2 L24,17 C24,17.5522847 23.5522847,18 23,18 L2.04347826,18 C1.49119351,18 1.04347826,17.5522847 1.04347826,17 L1.04347826,2 C1.04347826,1.44771525 1.49119351,1 2.04347826,1 Z" id="Rectangle-4"></path>
+                <polyline id="Path-2" stroke-linejoin="round" points="5.2173913 6 7.30434783 8.5 5.2173913 11"></polyline>
+                <path d="M10.7157191,13 L17.458194,13" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -127,3 +127,31 @@
     border-bottom-color:#FFA234;
     border-bottom-style:solid;
 }
+.begin {
+    font-family: 'Open Sans', sans-serif;
+    width:100%;
+    height:20em;
+    background-color:#2390E6;
+}
+.begin h1 {
+    text-align:center;
+    padding-top:2em;
+    color:white;
+}
+.begin h5 {
+    text-align:center;
+    padding-top:1em;
+    color:white;
+}
+.begin button {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    border:0;
+    margin-top:2em;
+    padding: 10px 25px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:5px;
+    color:#2390E6;
+}

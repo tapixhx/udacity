@@ -155,3 +155,193 @@
     border-radius:5px;
     color:#2390E6;
 }
+.popular {
+    font-family: 'Open Sans', sans-serif;
+    color:#525C65;
+}
+.popular h6 a {
+    text-decoration:none;
+    color:#2390E6;
+}
+.popularbox1 {
+    height:15em;
+    width:15em;
+    box-shadow:5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius:5px;
+    background:url(images/frontend_web.jpg);
+    background-size:15em 7em;
+    background-repeat: no-repeat;
+}
+.popularbox2 {
+    height:15em;
+    width:15em;
+    box-shadow:5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius:5px;
+    background:url(images/ai.jpg);
+    background-size:15em 7em;
+    background-repeat: no-repeat;
+}
+.popularbox3 {
+    height:15em;
+    width:15em;
+    box-shadow:5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius:5px;
+    background:url(images/fullstack_web.jpg);
+    background-size:15em 7em;
+    background-repeat: no-repeat;
+}
+.popularbox4 {
+    height:15em;
+    width:15em;
+    box-shadow:5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius:5px;
+    background:url(images/autonompus.jpg);
+    background-size:15em 7em;
+    background-repeat: no-repeat;
+}
+.popularbox5 {
+    height:15em;
+    width:15em;
+    box-shadow:5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius:5px;
+    background:url(images/java.jpg);
+    background-size:15em 7em;
+    background-repeat: no-repeat;
+}
+.popularbox6 {
+    height:15em;
+    width:15em;
+    box-shadow:5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius:5px;
+    background:url(images/ml.jpg);
+    background-size:15em 7em;
+    background-repeat: no-repeat;
+}
+.before {
+    position:absolute;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    width:15em;
+    height:7em;
+    background-color:rgba(0,0,0,.5);
+}
+.card_header {
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    position:absolute;
+    top:20px;
+    left:20px;
+    font-size:10px;
+    z-index:1;
+}
+.card_title {
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    position:absolute;
+    top:40px;
+    left:20px;
+    font-size:14px;
+    z-index:1;
+}
+.card_desc {
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    background-color:#FF5483;
+    border-radius:5px;
+    position:absolute;
+    left:20px;
+    top:80px;
+    font-size:14px;
+    border:0;
+    z-index:1;
+}
+.card_desc2 {
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    background-color:orange;
+    border-radius:5px;
+    position:absolute;
+    left:20px;
+    top:80px;
+    font-size:14px;
+    border:0;
+    z-index:1;
+}
+.after {
+    font-family: 'Open Sans', sans-serif;
+    position:absolute;
+    top:130px;
+    left:35px;
+}
+.after2 {
+    font-family: 'Open Sans', sans-serif;
+    position:absolute;
+    top:400px;
+    left:35px;
+}
+.number {
+    width:100%;
+    height:55em;
+    background-color:#F2F9FF;
+}
+.number_head {
+    font-family: 'Open Sans', sans-serif;
+    text-align:center;
+}
+.number_img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.number_count {
+    font-family: 'Open Sans', sans-serif;
+    text-align:center;
+}
+.number_desc {
+    font-family: 'Open Sans', sans-serif;
+    text-align:center;
+}
+.number_people {
+    width:20em;
+    height:25em;
+    margin-top:4em;
+    position:absolute;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 0 0 4px 0 rgba(17,22,26,.16), 0 2px 4px 0 rgba(17,22,26,.08), 0 4px 8px 0 rgba(17,22,26,.08);
+}
+.people_img {
+    height:4em;
+    width:4em;
+    position:absolute;
+    border-radius:50%;
+    top:-25px;
+    left:130px;
+}
+.number_people h2 {
+    font-family: 'Open Sans', sans-serif;
+    margin-top:2em;
+    text-align:center;
+}
+.number_people h6 {
+    font-family: 'Open Sans', sans-serif;
+    padding:15px 25px;
+    text-align:center;
+}
+.number_bottom {
+    position:absolute;
+    width:100%;
+    height:6em;
+    bottom:0;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    background-color:#F1F3F5;
+}
+.number_bottom h6 {
+    color:#657482;
+    font-family: 'Open Sans', sans-serif;
+}
+.number_bottom p {
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+}

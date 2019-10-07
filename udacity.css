@@ -8,6 +8,9 @@
 .logo {
     height:1.2em;
 }
+.logo_foot {
+    height:2em;
+}
 .brand {
     font-size:1.2em;
     font-weight:650;
@@ -344,4 +347,105 @@
 .number_bottom p {
     text-align:center;
     font-family: 'Open Sans', sans-serif;
+}
+.mentor {
+    width:100%;
+    height:10em;
+    border-radius:10px;
+    background-color:#F2F9FF;
+}
+.mentor_img {
+    width:14em;
+    height:10em;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.mentor_text {
+    font-family: 'Open Sans', sans-serif;
+    margin-top:25px;
+}
+.mentor_button {
+    padding:8px 25px;
+    display:block;
+    font-family: 'Open Sans', sans-serif;
+    font-size:13px;
+    letter-spacing:1px;
+    margin-top:4em;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    border: 1px solid #02B3E4;
+    color:#02B3E4;
+    border-radius:2px;
+    box-shadow: 10px 10px 25px 0 rgba(0,0,0,.2);
+}
+.path {
+    font-family: 'Open Sans', sans-serif;
+    width:100%;
+    height:25em;
+    margin-top:7em;
+    background-color:#2390E6;
+    color:white;
+}
+.path h2 {
+    padding-top:3em;
+    padding-bottom:1em;
+    font-weight:lighter;
+}
+.path h6 {
+    padding-bottom:4em;
+    font-weight:lighter;
+}
+.path_button1 {
+    background-color:#02B3E4;
+    color:white;
+    padding:15px 35px;
+    letter-spacing: 2px;
+    font-size:13px;
+    box-shadow: 10px 10px 25px 0 rgba(0,0,0,.2);
+    border:0px;
+    border-radius:2px;
+}
+.path_button2 {
+    margin-left:15px;
+    background-color:white;
+    color:#02B3E4;
+    padding:15px 35px;
+    letter-spacing: 2px;
+    font-size:13px;
+    box-shadow: 10px 10px 25px 0 rgba(0,0,0,.2);
+    border:0px;
+    border-radius:2px;
+}
+.udacity_footer {
+    background-color:#EFFCFB;
+    font-family: 'Open Sans', sans-serif;
+}
+.foot_head {
+    color:#7D97AD;
+    font-size:15px;
+    margin-top:2em;
+}
+.foot_item a{
+    text-decoration:none;
+    color:#525C65;
+    font-size:12px;
+}
+.copyright {
+    color:#525C65;
+    font-size:15px;
+}
+.copyright li{
+    display:inline;
+}
+.sm-margin {
+    margin-left:2em;
+}
+.lg-margin {
+    margin-left:6em;
+}
+.bottom_para {
+    text-align:center;
+    font-size:10px;
+    color:#525C65;
 }
